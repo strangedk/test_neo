@@ -1,5 +1,12 @@
 # Exam project for NeoGames
 
+Project use Parcel 2.0 
+
+#### To run project 
+- Make npm install
+- Type npm run start
+- Go to the link wich appears into the parcel answer
+
 #### You can check the key places:
 
 - Resources
